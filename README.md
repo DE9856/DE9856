@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DE9856
 - 👀 I’m interested in coding, and video games
-- 🌱 I’m currently learning 10th grade
+- 🌱 I’m currently in first year of Engineering in AIML
 - 💞️ I’m looking to collaborate on (idk much abt coding i just wanna learn)
 - 📫 How to reach me - mail me (deepeshkumar9134@gmail.com)
 
