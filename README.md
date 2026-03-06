@@ -46,31 +46,11 @@ Jupyter Notebook
 ### Python Libraries
 NumPy • SymPy
 
----
-
-## Featured Work
-
-🔹 **Computer Science Fundamentals**  
-Implementation of core algorithms and OS concepts in C
-
-Includes:
-- Linked Lists
-- Binary Search Trees
-- Hash Tables
-- BFS / DFS Graph Traversal
-- Banker's Algorithm
-- Page Replacement Algorithms
-- Producer Consumer Problem
-- Disk Scheduling Algorithms
-- Process Creation using fork() and exec()
-
----
-
 ## Currently Exploring
 
 - Machine Learning workflows  
-- Backend development  
-- Advanced DSA problem solving  
+- Frontend & Backend development using MERN
+- DSA problem solving  
 - System-level programming
 
 ---
