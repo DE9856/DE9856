@@ -75,14 +75,6 @@ Includes:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DE9856&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DE9856&layout=compact&theme=tokyonight)
-
----
-
 ## Connect With Me
 
 LinkedIn : https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/
