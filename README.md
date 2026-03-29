@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=DE9856&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/DE9856?label=Followers&style=social" />
 </p>
@@ -69,7 +70,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DE9856&show_icons=true&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DE9856&theme=tokyonight" />
-  
+  <img src="https://github.com/DE9856/DE9856/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
