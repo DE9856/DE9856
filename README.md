@@ -67,7 +67,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DE9856&show_icons=true&theme=tokyonight" />
+  ![Snake animation](https://github.com/DE9856/DE9856/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
