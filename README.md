@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Deepesh+Kumar+Kotta;AIML+Student;Systems+Programming+Enthusiast;DSA+%7C+Machine+Learning;Building+Real+World+Systems" />
 </p>
 
-<p align="center">
-  AIML Student • Systems & Backend Enthusiast • Problem Solver
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/">
