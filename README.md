@@ -41,7 +41,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  ![Snake animation](https://github.com/DE9856/DE9856/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ### 🧠 Core CS
@@ -70,8 +69,11 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DE9856&show_icons=true&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DE9856&theme=tokyonight" />
-  <img src="https://github.com/DE9856/DE9856/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/DE9856/DE9856/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
