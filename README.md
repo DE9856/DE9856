@@ -67,7 +67,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Snake animation](https://github.com/DE9856/DE9856/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DE9856&theme=tokyonight" />
 </p>
 
 ---
