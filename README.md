@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Deepesh 👋</h1>
 
 <p align="center">
-  AIML Student | Problem Solver | Systems Explorer
+  AIML Student • Problem Solver • Systems Explorer
 </p>
 
 <p align="center">
@@ -13,36 +13,40 @@
   <img src="https://img.shields.io/github/followers/DE9856?style=for-the-badge&color=00d9ff&labelColor=0a0a23" />
 </p>
 
+---
+
+## ⚡ GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DE9856&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DE9856/DE9856/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DE9856/DE9856/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DE9856/DE9856/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://streak-stats.demolab.com?user=DE9856&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DE9856&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 - 🎓 BE in **Artificial Intelligence & Machine Learning (2nd Year)**  
-- 🧠 Strong interest in **Computer Science Fundamentals & Systems**  
-- ⚙️ Love understanding how things work **under the hood**  
-- 📈 Focused on **DSA + Machine Learning + System Design**
+- 🧠 Strong focus on **Core Computer Science & Systems**  
+- ⚙️ Curious about how systems work at a low level  
+- 📈 Currently building strength in **DSA, ML, and System Design**
 
 ---
 
-## 🔥 What I'm Currently Doing
+## 🔥 Current Focus
 
-- 🧩 Solving **LeetCode problems daily**
-- 🧠 Strengthening **Data Structures & Algorithms**
-- 🤖 Learning **Machine Learning workflows**
-- 🌐 Exploring **MERN Stack Development**
-- ⚙️ Diving into **System-level concepts**
+- 🧩 Solving **LeetCode daily**
+- 🧠 Mastering **Data Structures & Algorithms**
+- 🤖 Exploring **Machine Learning pipelines**
+- 🌐 Learning **MERN Stack**
+- ⚙️ Diving into **System Design & OS**
 
 ---
 
@@ -58,23 +62,47 @@
 - Data Structures & Algorithms  
 - Operating Systems  
 - Object-Oriented Programming  
-- Multithreading & Synchronization  
+- Multithreading  
 
-### 🌐 Web Development
+### 🌐 Web
 - HTML • CSS • JavaScript  
-- MERN Stack (Learning)
+- MERN (Learning)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 - Git • GitHub • VS Code  
-- Docker • WSL (Ubuntu)  
+- Docker • WSL  
 - MySQL • MongoDB  
 - Jupyter Notebook  
 
-### 📚 Python Libraries
+### 📚 Libraries
 - NumPy • SymPy  
 
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DE9856&theme=tokyo-night" />
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DE9856/DE9856/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DE9856/DE9856/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DE9856/DE9856/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 
 ---
+
+## 🔥 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -95,14 +123,7 @@
   </a>
 </p>
 
-## 🔥 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
 ---
-
 
 ## ⚡ Fun Fact
 
