@@ -75,15 +75,6 @@
 
 
 ---
-
-## 🔥 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -103,6 +94,15 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
+## 🔥 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
 
 ## ⚡ Fun Fact
 
