@@ -68,10 +68,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DE9856&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DE9856&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DE9856&theme=tokyonight&utcOffset=5" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DE9856&theme=tokyonight&no-frame=true&row=1&column=6" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DE9856&theme=tokyo-night" />
+  
 </p>
 
 ---
