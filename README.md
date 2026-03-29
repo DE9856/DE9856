@@ -1,62 +1,93 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AIML+Student;Systems+Programming+Enthusiast;Learning+Machine+Learning;Building+Cool+Things)
-# Hey there, I'm Deepesh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Deepesh+Kumar+Kotta;AIML+Student;Systems+Programming+Enthusiast;DSA+%7C+Machine+Learning+%7C+Web+Dev;Building+Cool+Things+🚀" />
+</p>
 
-BE Student in Artificial Intelligence & Machine Learning  
-Passionate about Computer Science fundamentals, system design, and intelligent systems  
-Exploring how algorithms, operating systems, and AI interact to solve real-world problems
+<h1 align="center">Hey 👋, I'm Deepesh</h1>
 
----
+<p align="center">
+  <b>AIML Student | Problem Solver | Systems Explorer</b>
+</p>
 
-## About Me
-
-I'm currently in my **2nd year (4th semester) of AIML**, focusing on strengthening core computer science foundations while expanding into machine learning and full-stack technologies.
-
-I enjoy understanding **how systems actually work under the hood** - from memory allocation and scheduling algorithms to data structures and multithreading.
-
-Currently working on:
-- Strengthening **Data Structures & Algorithms**
-- Exploring **Machine Learning concepts**
-- Learning the **MERN stack**
-- Working on **UPCOMING PROJECT**
-- Solving problems on **LeetCode**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DE9856&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/DE9856?label=Followers&style=social" />
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-### Languages
-C • Java • Python 
-
-### Computer Science Foundations
-Data Structures & Algorithms  
-Operating Systems  
-Object-Oriented Programming  
-Multithreading & Synchronization  
-
-### Web Development
-HTML • CSS • JavaScript  
-MERN Stack (Learning)
-
-### Tools & Platforms
-Git • GitHub • VS Code  
-Docker • WSL (Ubuntu)  
-MySQL • MongoDB  
-Jupyter Notebook
-
-### Python Libraries
-NumPy • SymPy
-
-## Currently Exploring
-
-- Machine Learning workflows  
-- Frontend & Backend development using MERN
-- DSA problem solving  
-- System-level programming
+- 🎓 BE in **Artificial Intelligence & Machine Learning (2nd Year)**  
+- 🧠 Strong interest in **Computer Science Fundamentals & Systems**  
+- ⚙️ Love understanding how things work **under the hood**  
+- 📈 Focused on **DSA + Machine Learning + System Design**
 
 ---
 
-## Connect With Me
+## 🔥 What I'm Currently Doing
 
-LinkedIn : https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/
-Email  : deepeshkumar9134@gmail.com
+- 🧩 Solving **LeetCode problems daily**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🤖 Learning **Machine Learning workflows**
+- 🌐 Exploring **MERN Stack Development**
+- ⚙️ Diving into **System-level concepts**
 
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+### 🧠 Core CS
+- Data Structures & Algorithms  
+- Operating Systems  
+- Object-Oriented Programming  
+- Multithreading & Synchronization  
+
+### 🌐 Web Development
+- HTML • CSS • JavaScript  
+- MERN Stack (Learning)
+
+### ⚙️ Tools & Platforms
+- Git • GitHub • VS Code  
+- Docker • WSL (Ubuntu)  
+- MySQL • MongoDB  
+- Jupyter Notebook  
+
+### 📚 Python Libraries
+- NumPy • SymPy  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DE9856&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DE9856&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/  
+- 📧 Email: deepeshkumar9134@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy breaking down complex systems and understanding how everything works from scratch 🚀
