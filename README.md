@@ -25,7 +25,6 @@
 </picture>
 </p>
 
-[![trophy](https://vercel.app)](https://github.com/DE9856/github-profile-trophy)
 
 ---
 
