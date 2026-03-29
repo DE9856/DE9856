@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Deepesh+Kumar+Kotta;AIML+Student;Systems+Programming+Enthusiast;DSA+%7C+Machine+Learning;Building+Real+World+Systems" />
+</p>
+
 <h1 align="center">Deepesh Kumar Kotta</h1>
 
 <p align="center">
