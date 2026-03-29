@@ -86,10 +86,23 @@
 
 ## 🤝 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/  
-- 📧 Email: deepeshkumar9134@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Kumar%20Kotta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
----
+  <a href="mailto:deepeshkumar9134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/DE9856">
+    <img src="https://img.shields.io/badge/GitHub-DE9856-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/xaEOgeJPHr/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ## ⚡ Fun Fact
 
