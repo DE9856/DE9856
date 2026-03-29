@@ -1,17 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Deepesh+Kumar+Kotta;AIML+Student;Systems+Programming+Enthusiast;DSA+%7C+Machine+Learning;Building+Projects+%26+Real+World+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Deepesh+Kumar+Kotta;AIML+Student;Systems+Programming+Enthusiast;DSA+%7C+Machine+Learning;Building+Projects+%26+Real+World+Systems" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Deepesh</h1>
+<h1 align="center">Hey, I'm Deepesh 👋</h1>
 
 <p align="center">
-  <b>AIML Student | Problem Solver | Systems Explorer</b>
+  AIML Student | Problem Solver | Systems Explorer
 </p>
 
 <p align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=DE9856&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/DE9856?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=DE9856&style=for-the-badge&color=00d9ff&labelColor=0a0a23&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/DE9856?style=for-the-badge&color=00d9ff&labelColor=0a0a23" />
 </p>
 
 <p align="center">
