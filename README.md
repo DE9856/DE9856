@@ -1,105 +1,69 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Deepesh+Kumar+Kotta;AIML+Student;Systems+Programming+Enthusiast;DSA+%7C+Machine+Learning;Building+Real+World+Systems" />
-</p>
+<h1 align="center">Deepesh Kumar Kotta</h1>
+<p align="center">AI/ML Student · Systems Programming · Backend & ML Engineering</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:deepeshkumar9134@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/xaEOgeJPHr/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About
+## About
 
-I'm an AIML student focused on building strong foundations in **computer science, backend systems, and machine learning**.
+AI/ML student focused on backend systems, real-time architectures, and applied machine learning. I like understanding how systems work internally — from compiler pipelines to distributed workflow engines — and building things that go beyond tutorial-level scope.
 
-- Interested in **system design, real-time systems, and ML pipelines**
-- Strong focus on **DSA + core CS fundamentals**
-- I enjoy breaking down systems and understanding how they work internally
-
----
-
-## 🚀 Featured Projects
-
-### 🕵️ Project Code Auditor – Agentic Code & Document Auditor
-- Built an LLM-driven auditor that lazily retrieves context instead of stuffing a whole repo into the prompt, keyed off tree-sitter indexing and content-addressed caching
-- Supports archives (zip/tar/rar/7z) and mixed document types (PDF, DOCX, Markdown, code)
-- Runs real compiler diagnostics (**gcc, javac, go vet, rustc, tsc, php -l, ruby -c, mcs**) inside a locked-down, network-isolated **Docker** sandbox per check
-- Modular architecture split into an extraction-service (sandboxed archive handling) and a context-engine (indexing, agentic retrieval loop, chat UI on Flask)
-🔗 https://github.com/DE9856/project-code-auditor
-
-### 🧩 LifeOS – Telegram-Driven Personal Automation Platform
-- Designing a modular "personal operating system" that manages tasks, study, finances, and career prep through one connected pipeline instead of scattered apps
-- Built a layered architecture (Gateway → Router → TaskOS) with standardized request/response contracts, using **n8n** as the workflow engine and **Supabase (PostgreSQL)** for persistence
-- Shipped TaskOS with natural-language task creation, priorities, due dates, search, categories, and Telegram bot integration via Cloudflare Tunnel
-- Actively expanding toward FinanceOS, StudyOS, an AI Gateway, and a React dashboard
-🔗 https://github.com/DE9856/LifeOS
-
-### 📊 DSA Visualizer – Interactive Algorithm & Data Structure Learning Tool
-- Built an interactive **React + Vite** app that animates algorithms and data structures step by step
-- Covers **6 sorting algorithms**, **2 searching algorithms**, and 6 data structure modules (trees, linked lists, graphs, stacks, queues, polynomials)
-- Includes speed controls, pseudocode display, and complexity analysis for classroom use and interview prep
-🔗 https://github.com/DE9856/DSA-Visualizer
-
-### 🔐 HackRunner – Cybersecurity Learning Platform
-- Built a web platform generating **10,000+ cybersecurity attack scenarios**
-- Implemented **GAN-based text generation (PyTorch)**
-- Designed adaptive difficulty across **5 attack categories using 50+ templates**
-- Enabled **real-time challenge delivery using WebSockets (<10ms latency)**
-🔗 https://github.com/HackRunner
-
-### ✋ Gesture Grid – Sign Language Learning System
-- Built a **real-time gesture recognition system** using computer vision
-- Trained a **CNN on ASL dataset (26,000+ images)**
-- Achieved **~88% prediction accuracy**
-- Provides live feedback using camera input
-🔗 https://github.com/GestureGrid
-
-### ⛏ Smart Mine Safety System (IoT + Network)
-- Designed an **IoT-based miner safety vest using ESP32 + Bluetooth**
-- Expanded into a **LoRa-based node communication network**
-- Integrated **MPU6050 sensors for motion and safety detection**
-- Built during national-level hackathons and led a 4-member team
-🔗 https://github.com/DE9856/Cave-In-Detection
-
-### 🎬 Movie Recommendation System
-- Built a **Java-based collaborative filtering engine**
-- Used **10k+ rating dataset for recommendations**
-- Implemented similarity-based ranking logic
-🔗 https://github.com/DE9856/Java-Programming-Build-A-Recommendation-System
+- Strong grounding in data structures, algorithms, and core CS fundamentals
+- Experience building agentic/LLM-driven tooling, sandboxed execution environments, and automation pipelines
+- Comfortable across the stack: from ESP32 firmware to React dashboards to Docker-isolated backend services
 
 ---
 
-## ⚡ Skills
+## Projects
 
-### 💻 Languages
-C • Java • Python • SQL
+**[Code Auditor — Agentic Code & Document Auditor](https://github.com/DE9856/project-code-auditor)**
+LLM-driven code/document auditor that retrieves context lazily instead of stuffing entire repositories into the prompt, using tree-sitter indexing and content-addressed caching. Runs real compiler diagnostics (gcc, javac, go vet, rustc, tsc, php -l, ruby -c, mcs) inside a network-isolated Docker sandbox, with support for archives (zip/tar/rar/7z) and mixed document types (PDF, DOCX, Markdown, code). Split into an extraction service for sandboxed archive handling and a context engine for indexing, retrieval, and a Flask-based chat UI.
 
-### 🧠 Core CS
-Data Structures • Operating Systems • OOP • Multithreading
+**[LifeOS — Telegram-Driven Personal Automation Platform](https://github.com/DE9856/LifeOS)**
+A modular personal-operations platform unifying tasks, study, finance, and career prep into one pipeline. Layered architecture (Gateway → Router → TaskOS) with standardized request/response contracts, built on n8n for workflow orchestration and Supabase (PostgreSQL) for persistence. TaskOS supports natural-language task creation, priorities, due dates, search, and Telegram bot integration via Cloudflare Tunnel. In progress: FinanceOS, StudyOS, an AI Gateway, and a React dashboard.
 
-### 🤖 Machine Learning
-PyTorch • CNN • GANs • Data Processing
+**[DSA Visualizer — Algorithm & Data Structure Learning Tool](https://github.com/DE9856/DSA-Visualizer)**
+Interactive React + Vite application animating algorithms step by step, covering 6 sorting algorithms, 2 searching algorithms, and 6 data structure modules (trees, linked lists, graphs, stacks, queues, polynomials). Includes speed controls, pseudocode display, and complexity analysis, designed for interview prep and classroom use.
 
-### 🌐 Development
-HTML • CSS • JavaScript • React • Vite • Flask
+**[HackRunner — Cybersecurity Learning Platform](https://github.com/HackRunner)**
+Web platform generating 10,000+ cybersecurity attack scenarios using GAN-based text generation (PyTorch), with adaptive difficulty across 5 attack categories and 50+ templates. Delivers challenges in real time over WebSockets with sub-10ms latency.
 
-### 🤝 Automation & Agentic Systems
-n8n • Telegram Bot API • LLM Tool-Calling • Tree-sitter • Supabase
+**[Gesture Grid — Sign Language Learning System](https://github.com/GestureGrid)**
+Real-time gesture recognition system using computer vision, with a CNN trained on a 26,000+ image ASL dataset achieving ~88% prediction accuracy. Provides live feedback from camera input.
 
-### ⚙️ Tools
-Git • Docker • MongoDB • MySQL • WSL • Jupyter • Cloudflare Tunnel
+**[Smart Mine Safety System — IoT + Networking](https://github.com/DE9856/Cave-In-Detection)**
+IoT-based miner safety vest built on ESP32 with Bluetooth, later expanded into a LoRa-based node communication network. Integrates MPU6050 sensors for motion and safety detection. Built and led a 4-member team during national-level hackathons.
+
+**[Movie Recommendation System](https://github.com/DE9856/Java-Programming-Build-A-Recommendation-System)**
+Java-based collaborative filtering engine built on a 10k+ rating dataset, using similarity-based ranking for recommendations.
 
 ---
 
-## 📊 Activity
+## Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | C, Java, Python, SQL |
+| Core CS | Data Structures, Operating Systems, OOP, Multithreading |
+| Machine Learning | PyTorch, CNNs, GANs, Data Processing |
+| Development | HTML, CSS, JavaScript, React, Vite, Flask |
+| Automation & Agentic Systems | n8n, Telegram Bot API, LLM Tool-Calling, Tree-sitter, Supabase |
+| Tools & Infrastructure | Git, Docker, MongoDB, MySQL, WSL, Jupyter, Cloudflare Tunnel |
+
+---
+
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DE9856&theme=tokyonight&hide_border=true" />
@@ -107,14 +71,8 @@ Git • Docker • MongoDB • MySQL • WSL • Jupyter • Cloudflare Tunnel
 
 ---
 
-## 🎯 Current Focus
+## Currently
 
-- Solving **DSA problems daily**
-- Building **real-world ML + system projects**
-- Learning **system design & backend architecture**
-
----
-
-## ⚡ Fun Fact
-
-I enjoy breaking down systems from first principles and understanding how everything works 🚀
+- Solving DSA problems daily
+- Building real-world ML and systems projects
+- Studying system design and backend architecture
