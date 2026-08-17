@@ -77,7 +77,7 @@ Java-based collaborative filtering engine built on a 10k+ rating dataset, using 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DE9856&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.in/00B4D8/DE9856" alt="DE9856's GitHub contribution graph" width="100%" />
 </p>
 
 ---
