@@ -1,5 +1,8 @@
 <h1 align="center">Deepesh Kumar Kotta</h1>
-<p align="center">AI/ML Student · Systems Programming · Backend & ML Engineering</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=AIML+Student;Systems+Programming+Enthusiast;Backend+%26+ML+Engineering" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepesh-kumar-kotta-05681b23a/">
@@ -51,6 +54,10 @@ Java-based collaborative filtering engine built on a 10k+ rating dataset, using 
 ---
 
 ## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,mysql,html,css,js,react,vite,flask,git,docker,mongodb,pytorch&theme=dark" />
+</p>
 
 | Category | Technologies |
 |---|---|
