@@ -76,10 +76,6 @@ Java-based collaborative filtering engine built on a 10k+ rating dataset, using 
   <img src="https://streak-stats.demolab.com?user=DE9856&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.in/00B4D8/DE9856" alt="DE9856's GitHub contribution graph" width="100%" />
-</p>
-
 ---
 
 ## Currently
