@@ -33,11 +33,12 @@ AI/ML student focused on backend systems, real-time architectures, and applied m
 **[Code Auditor — Agentic Code & Document Auditor](https://github.com/DE9856/project-code-auditor)**
 LLM-driven code/document auditor that retrieves context lazily instead of stuffing entire repositories into the prompt, using tree-sitter indexing and content-addressed caching. Runs real compiler diagnostics (gcc, javac, go vet, rustc, tsc, php -l, ruby -c, mcs) inside a network-isolated Docker sandbox, with support for archives (zip/tar/rar/7z) and mixed document types (PDF, DOCX, Markdown, code). Split into an extraction service for sandboxed archive handling and a context engine for indexing, retrieval, and a Flask-based chat UI.
 
+**[DSA Visualizer — Algorithm & Data Structure Learning Tool](https://github.com/DE9856/DSA-Visualizer)**
+Interactive React + Vite application animating algorithms step by step, covering 9 sorting algorithms, 5 searching algorithms, and 8 data structure modules (trees, linked lists, graphs, stacks, queues, polynomials, heaps, hashtables). Includes speed controls, pseudocode display, and complexity analysis, designed for interview prep and classroom use.
+
 **[LifeOS — Telegram-Driven Personal Automation Platform](https://github.com/DE9856/LifeOS)**
 A modular personal-operations platform unifying tasks, study, finance, and career prep into one pipeline. Layered architecture (Gateway → Router → TaskOS) with standardized request/response contracts, built on n8n for workflow orchestration and Supabase (PostgreSQL) for persistence. TaskOS supports natural-language task creation, priorities, due dates, search, and Telegram bot integration via Cloudflare Tunnel. In progress: FinanceOS, StudyOS, an AI Gateway, and a React dashboard.
 
-**[DSA Visualizer — Algorithm & Data Structure Learning Tool](https://github.com/DE9856/DSA-Visualizer)**
-Interactive React + Vite application animating algorithms step by step, covering 6 sorting algorithms, 2 searching algorithms, and 6 data structure modules (trees, linked lists, graphs, stacks, queues, polynomials). Includes speed controls, pseudocode display, and complexity analysis, designed for interview prep and classroom use.
 
 **[HackRunner — Cybersecurity Learning Platform](https://github.com/HackRunner)**
 Web platform generating 10,000+ cybersecurity attack scenarios using GAN-based text generation (PyTorch), with adaptive difficulty across 5 attack categories and 50+ templates. Delivers challenges in real time over WebSockets with sub-10ms latency.
