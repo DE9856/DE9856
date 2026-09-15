@@ -74,7 +74,7 @@ Java-based collaborative filtering engine built on a 10k+ rating dataset, using 
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DE9856&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DE9856&theme=tokyonight" />
 </p>
 
 ---
